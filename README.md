@@ -2,7 +2,7 @@
 
 --------------------
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Braismp007)  ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/Braismp007/MiWeb)  ![GitHub](https://img.shields.io/github/license/Braismp007/MiWeb)  ![GitHub repo size](https://img.shields.io/github/repo-size/Braismp007/MiWeb)  ![GitHub release (with filter)](https://img.shields.io/github/v/release/Braismp007/MiWeb)  ![GitHub issues](https://img.shields.io/github/issues/Braismp007/MiWeb)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Braismp007)  ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/Braismp007/MiWeb)  ![GitHub repo size](https://img.shields.io/github/repo-size/Braismp007/MiWeb)  ![GitHub release (with filter)](https://img.shields.io/github/v/release/Braismp007/MiWeb)  ![GitHub issues](https://img.shields.io/github/issues/Braismp007/MiWeb)
 
 
 
