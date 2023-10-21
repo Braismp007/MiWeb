@@ -1,8 +1,10 @@
-![Banner1](https://cdn.discordapp.com/attachments/1031552849550770277/1165351881288208515/git_banner_proyecto_1.png)
+![git_banner_proyecto_1](https://github.com/Braismp007/MiWeb/assets/90138396/21c48293-6fa7-4024-859b-70719832bd30)
 
 --------------------
 
--- SHIELDS --
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Braismp007)  ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/Braismp007/MiWeb)  ![GitHub](https://img.shields.io/github/license/Braismp007/MiWeb)  ![GitHub repo size](https://img.shields.io/github/repo-size/Braismp007/MiWeb)  ![GitHub release (with filter)](https://img.shields.io/github/v/release/Braismp007/MiWeb)  ![GitHub issues](https://img.shields.io/github/issues/Braismp007/MiWeb)
+
+
 
 Este proyecto es uno de mis proyectos personales donde voy a ir aprendiendo distintos leguajes de programación. En este caso voy a aprender a desarrollar una página web desde cero con **HTML 5**,** CSS 3** y **Java Script**.
 
@@ -12,3 +14,5 @@ Este proyecto va a estar programado, como dije anteriormente en **HTML5** y **CS
 
 > [!NOTE]
 > Se va a publicar junto al código de la web contenido como imágenes, logos, etc. Estos son de libre uso siempre que se respete su autor.
+
+
