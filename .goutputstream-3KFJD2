@@ -10,7 +10,7 @@
 	<link rel="shortcut icon" href="img/favicon_proyecto.png" type="image/x-icon">
 </head>
 <body>
-    <header id="titulo">
+    <header>
 		<h1>Este es el titulo de la web </h1>
 	</header>
 	<nav>
@@ -22,11 +22,12 @@
 	<main>
 		<section id="noticias">
 			<article>
-				<h1>Titulo del articulo</h1>
-				<time datetime="2023-10-25" pubdate>publicado 25-10-2023</time>
-				<header></header>
-				<pre>Que tal estamos <em>hoy</em> como nos va este
-dia que tenemos por aquí. </pre>
+				<h1>Enviar un mensaje</h1>
+				
+				<header>
+				Enviar un mensaje...
+				</header>
+				
 			</article>
 			<article>
 				Este es el texto de mi segundo articulo
@@ -36,11 +37,6 @@ dia que tenemos por aquí. </pre>
 			<p>Cita del articulo uno</p>
 			<p>Cita del articulo dos</p>
 			<p>Cita del articulo tres</p>
-			<p>Cita del articulo cuatro</p>
-			<p>Cita del articulo cinco</p>
-			<p>Cita del articulo seis</p>
-			<p>Cita del articulo siete</p>
-			<p><a href="#titulo">Volver</a></p>
 		</aside>
 	</main>
 	<footer>

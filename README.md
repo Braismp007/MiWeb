@@ -6,7 +6,7 @@
 
 
 
-Este proyecto es uno de mis proyectos personales donde voy a ir aprendiendo distintos leguajes de programación. En este caso voy a aprender a desarrollar una página web desde cero con **HTML 5**,** CSS 3** y **Java Script**.
+Este proyecto es uno de mis proyectos personales donde voy a ir aprendiendo distintos leguajes de programación. En este caso voy a aprender a desarrollar una página web desde cero con **HTML 5**, **CSS 3** y **Java Script**.
 
 En este caso voy a estar siguiendo los pasos de un [libro](https://www.amazon.es/gran-libro-HTML5-JavaScript-Edici%C3%B3n/dp/8426724639) que he comprado donde me explican como desarrollar la web. La página como el repositorio voy a actualizar a medidad que vaya desarrollando la página.
 
