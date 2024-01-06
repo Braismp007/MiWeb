@@ -1,3 +1,26 @@
-p {
-    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
-  }
+section > p{
+  font-size: 20px;
+}
+
+#intro{
+  color: black;
+  background-color: white;
+}
+
+p:nth-child(odd){
+  background-color: aqua;
+  color: white;
+}
+
+p:nth-child(even){
+  background-color: aquamarine;
+  color: white;
+}
+
+:not(p){
+  margin: 0px;
+}
+
+section :not(.mitexto2) {
+  margin: 0px;
+}

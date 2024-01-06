@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+	<link rel="shortcut icon" href="img/favicon_proyecto.png" type="image/x-icon">
 </head>
 <body>
     <header id="titulo">
@@ -19,8 +20,24 @@
 
     <section>
         <form name="formulario" method="get" action="procesar.php">
-            
+			<datalist id="datos">
+				<option value="123456789" label="Teléfono 1">
+				<option value="987654321" label="Teléfono 2">
+			</datalist>
+            <p><label>*Nombre: </label><input type="text" name="nombre" required></p>
+			<p><label>*Edad: </label><input type="number" name="edad" min="13" max="100" value="35" required></p>
+			<p><label>*Correo: </label><input type="email" name="correo" required></p>
+			<p><label>*Teléfono: </label><input type="tel" name="telefono" list="datos" required></p>
+			<p><label>Sitio Web: </label><input type="url" name="sitioweb"></p>
+			<p><label>*Fecha: </label><input type="date" name="fecha" value="2023-12-27" required></p>
+			<p><label>Mi color: </label><input type="color" name="micolor" value="#99B00" disabled></p>
+			<p><label>*Texto: </label><textarea name="texto" cols="50" rows="6" autocomplete="off"></textarea></p>
+			<p><label>*Código Postal: </label><input pattern="[0-9]{5}" name="cp" title="Inserte un código postal válido." autocomplete="off"></p>
+			<p><button type="submit" value="Enviar">Enviar formulario</button></p>
         </form>
     </section>
+
+
+	<p>Los elementos con un * son obligatorios</p>
 </body>
 </html>
